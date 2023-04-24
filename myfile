@@ -1,2 +1,3 @@
-"my first Git file"
+int a=1, b=2;
+Print(a+b);
 
